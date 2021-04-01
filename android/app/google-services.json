@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873985611296",
+    "project_id": "flutter-chat-89148",
+    "storage_bucket": "flutter-chat-89148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873985611296:android:d278b18eae3d63da528e45",
+        "android_client_info": {
+          "package_name": "co.nikita.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873985611296-sntnnsuveip0tqif7tn7mkc8sbe1q8sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3RLr6UTP8LzbTABKdYEHK8HY8vn6mcCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873985611296-sntnnsuveip0tqif7tn7mkc8sbe1q8sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
